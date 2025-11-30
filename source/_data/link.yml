@@ -1,0 +1,31 @@
+- class_name: 尚品汇
+  class_desc: 大型电商购物平台
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网誌框架
+
+- class_name: 尚品汇后台管理平台
+  class_desc: 商品的后台管理和员工权限的管理
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网誌框架
+
+- class_name: 树洞云小程序
+  class_desc: 播放歌曲和MV的微信小程序
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+
+- class_name: 博客后台API项目
+  class_desc: 提供博客后台的API接口
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
