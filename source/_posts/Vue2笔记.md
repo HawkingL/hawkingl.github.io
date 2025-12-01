@@ -1,5 +1,13 @@
 ---
-abbrlink: "0"
+title: Vue2笔记
+tags: 框架
+categories: 前端
+keywords: Vue2
+description: Vue2学习笔记，
+top_img: https://hawking-img.oss-cn-hangzhou.aliyuncs.com/BlogPic/v2-76cbbf3febd707449a4df2f836894b7c_1440w.jpg
+cover: https://hawking-img.oss-cn-hangzhou.aliyuncs.com/BlogPic/vue.jpg
+abbrlink: 879455de
+date: 2022-02-13 18:38:18
 ---
 
 ## 脚手架文件结构
