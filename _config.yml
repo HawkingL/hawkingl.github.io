@@ -13,6 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## url配置了GitHub Page的地址，每次修改完push到github后，访问该地址即可自动更新网站内容
 url: https://hawkingl.github.io
 permalink: archives/:abbrlink.html
 abbrlink:
